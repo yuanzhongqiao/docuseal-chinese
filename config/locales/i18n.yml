@@ -991,8 +991,7 @@ es: &es
   profile_details: 个人资料详情
   sign_up_with_google: 使用 Google 注册
   sign_up_with_microsoft: 使用 Microsoft 注册
-  by_creating_an_account_you_agree_to_our_html: |
-    创建账户即表示您同意我们的 隐私政策 和 使用条款。
+  by_creating_an_account_you_agree_to_our_html:  创建账户即表示您同意我们的 隐私政策 和 使用条款。
   enter_email_to_continue: 输入电子邮件以继续
   account: 账户
   preferences: 偏好设置
@@ -1318,15 +1317,15 @@ es: &es
   member: 成员
   agent: 代理人
   superadmin: 超级管理员
-  edit_user: "编辑用户"
+  edit_user: 编辑用户
   new_user: 新用户
   unarchive: 取消归档
   role: 角色
   last_session: 最后会话
   unlock_more_user_roles_with_docuseal_pro: 使用 DocuSeal Pro 解锁更多用户角色。
   view_active: 查看活动状态
-  team_account: "团队账户"
-  team_accounts: "团队账户"
+  team_account: 团队账户
+  team_accounts: 团队账户
   tenant_account: 租户账户
   tenant_accounts: 租户账户
   impersonate: 模拟
@@ -1336,7 +1335,7 @@ es: &es
   edit_account: 编辑账户
   new_team: 新团队
   new_tenant: 新租户
-  remove_team: "移除团队"
+  remove_team: 移除团队
   remove_tenant: 移除租户
   replace: 替换
   allow_tenant_admins_to_invite_new_users: 允许租户管理员邀请新用户
@@ -1654,6 +1653,20 @@ es: &es
     field_settings_description: "每个字段都可以使用设置进行自定义，以满足您的需求，例如调整字体大小、设为必填项或添加描述。"
     send_document: '发送文档以供签署'
     send_document_description: "在发送文档以供签署之前"
+    sign_yourself: '亲自签署文件'
+    sign_yourself_description: '这个按钮会让您需要的文档签署您的名字.'
+    copy_and_share_link: 'Copy & 分享链接'
+    copy_and_share_link_description: '复制链接分享文档. 任何人可以收到邮件后签署.'
+    sign_the_document: '签署这个文档'
+    sign_the_document_description: '如果您是签署人之一, 这个按钮将问您签署.'
+    send_for_signing: '为了签署发送'
+    add_recipients: '增加接收者'
+    add_recipients_description: '通过输入电子邮件地址或电话号码，为待签署的文档添加新的接收人。'
+    settings: '设置'
+    settings_account_description: '借助全面的账户设置，您可以自定义电子签名体验并邀请更多用户。'
+    support: '支持'
+    support_description: '如果您有任何问题，可以使用我们的自助式人工智能助手，或发送电子邮件至 support@docuseal.com 联系我们。.'
+    settings_template_description: '进入账户设置页面.'
   doorkeeper:
     scopes:
       write: 更新您的数据
