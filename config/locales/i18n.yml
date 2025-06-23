@@ -1442,7 +1442,7 @@ cn: &cn
   declined_on_time: '拒绝于 %{time}'
   expire_on_time: '过期于 %{time}'
   sign_in_person: 亲自签署
-  create_a_new_template_document_form_or_submit_the_existing_one_html: "<a href="%{new_template_link}" data-turbo-frame="modal" class="inline underline font-medium">创建新模板 文档或 <a href="%{start_form_link}" target="blank" class="inline underline font-medium">提交现有"
+  create_a_new_template_document_form_or_submit_the_existing_one_html: "<a href="%{new_template_link}" data-turbo-frame="modal" class="inline underline font-medium">创建新模板 文档或 <a href="%{start_form_link}" target="blank" class="inline underline font-medium">提交现有"</a>
   send_email_copy_with_completed_documents_to_a_specified_bcc_address: 将已完成文档的电子邮件副本发送到指定的密送地址。
   re_send_email: 重新发送电子邮件
   send_email: 发送电子邮件
