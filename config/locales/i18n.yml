@@ -1,8 +1,8 @@
 en: &en
   language_en: English
-  language_cn-CN: 中文简体
   language_en-US: English (US)
   language_en-GB: English (UK)
+  language_cn-CN: 中文简体
   language_fr-FR: Français
   language_pt-PT: Português
   language_de-DE: Deutsch
@@ -852,6 +852,7 @@ en: &en
     items:
       range_with_total: "%{from}-%{to} of %{count} items"
       range_without_total: "%{from}-%{to} items"
+
 cn: &cn
   authenticate_embedded_form_preview_with_token: 使用令牌验证嵌入式表单预览
   require_all_recipients: 要求所有收件人
