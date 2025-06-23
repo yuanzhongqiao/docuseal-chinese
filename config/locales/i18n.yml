@@ -2,11 +2,11 @@ en: &en
   language_en: English
   language_en-US: English (US)
   language_en-GB: English (UK)
-  language_cn-CN: 中文简体
+  language_es-ES: 中文简体
   language_fr-FR: Français
   language_pt-PT: Português
   language_de-DE: Deutsch
-  language_cn: 中文简体
+  language_es: 中文简体
   language_it: Italiano
   language_de: Deutsch
   language_fr: Français
@@ -853,7 +853,7 @@ en: &en
       range_with_total: "%{from}-%{to} of %{count} items"
       range_without_total: "%{from}-%{to} items"
 
-cn: &cn
+es: &es
   authenticate_embedded_form_preview_with_token: 使用令牌验证嵌入式表单预览
   require_all_recipients: 要求所有收件人
   stripe_integration: Stripe 集成
@@ -1653,7 +1653,7 @@ cn: &cn
     field_settings: '字段设置'
     field_settings_description: "每个字段都可以使用设置进行自定义，以满足您的需求，例如调整字体大小、设为必填项或添加描述。"
     send_document: '发送文档以供签署'
-    send_document_description: "在发送文档以供签署之前
+    send_document_description: "在发送文档以供签署之前"
   doorkeeper:
     scopes:
       write: 更新您的数据
