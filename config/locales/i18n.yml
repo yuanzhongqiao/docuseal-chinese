@@ -2,11 +2,11 @@ en: &en
   language_en: English
   language_en-US: English (US)
   language_en-GB: English (UK)
-  language_es-ES: 中文简体
+  language_es-ES: Español
   language_fr-FR: Français
   language_pt-PT: Português
   language_de-DE: Deutsch
-  language_es: 中文简体
+  language_es: Español
   language_it: Italiano
   language_de: Deutsch
   language_fr: Français
@@ -887,9 +887,9 @@ es: &es
   document_download_filename_format: 文档下载文件名格式
   document_name: 文档名称
   unarchive: 取消归档
-  awaiting_completion_by_the_other_party: 等待另一方完成
-  enforce_recipients_order: 强制收件人顺序
-  first_party: 第一方
+  awaiting_completion_by_the_other_party: "等待另一方完成"
+  enforce_recipients_order: "强制收件人顺序"
+  first_party: '第一方'
   docuseal_trusted_signature: DocuSeal 可信签名
   hello_name: 您好 %{name}
   you_are_invited_to_product_name: 您被邀请加入 %{product_name}
@@ -991,18 +991,18 @@ es: &es
   profile_details: 个人资料详情
   sign_up_with_google: 使用 Google 注册
   sign_up_with_microsoft: 使用 Microsoft 注册
-  by_creating_an_account_you_agree_to_our_html:  创建账户即表示您同意我们的 隐私政策 和 使用条款。
+  by_creating_an_account_you_agree_to_our_html: 创建账户即表示您同意我们的 隐私政策 和 使用条款。
   enter_email_to_continue: 输入电子邮件以继续
   account: 账户
   preferences: 偏好设置
-  company_name: "公司名称"
+  company_name: 公司名称
   time_zone: 时区
   language: 语言
-  app_url: "应用 URL"
+  app_url: 应用 URL
   update: 更新
   updating: 更新中
-  force_2fa_with_authenticator_app: "使用验证器应用强制二次验证"
-  add_signature_id_to_the_documents: "将签名 ID 添加到文档"
+  force_2fa_with_authenticator_app: 使用验证器应用强制二次验证
+  add_signature_id_to_the_documents: 将签名 ID 添加到文档
   require_signing_reason: 要求签署原因
   allow_typed_text_signatures: 允许输入文本签名
   allow_to_resubmit_completed_forms: 允许重新提交已完成的表单
@@ -1012,7 +1012,7 @@ es: &es
   combine_completed_documents_and_audit_log: "合并已完成文档和审计日志"
   salesforce_integration: Salesforce 集成
   salesforce_has_been_connected: Salesforce 已连接。
-  connect_salesforce_account_to_integrate_with_docuseal: "连接您的 Salesforce 账户以与 DocuSeal 集成"
+  connect_salesforce_account_to_integrate_with_docuseal: 连接您的 Salesforce 账户以与 DocuSeal 集成
   re_connect_salesforce: 重新连接 Salesforce
   connect_salesforce: 连接 Salesforce
   danger_zone: 危险区域
@@ -1040,7 +1040,7 @@ es: &es
   reset_password: 重置密码
   resetting_password: 重置密码中
   sign_in_with_name_account: '使用 %{name} 账户登录'
-  two_factor_code_from_authenticator_app: "来自验证器应用的二次验证代码"
+  two_factor_code_from_authenticator_app: 来自验证器应用的二次验证代码
   sign_up_in_docuseal_console_to_upgrade_on_premises_app_is_completely_standalone_console_is_used_only_to_manage_your_license: "在 DocuSeal 控制台注册以升级。本地应用完全独立，控制台仅用于管理您的许可证。"
   send_from_email: "从电子邮件发送"
   optional: 可选
@@ -1102,14 +1102,14 @@ es: &es
   second_reminder_in: 第二次提醒在
   third_reminder_in: 第三次提醒在
   learn_more: 了解更多
-  unable_to_save: "无法保存。"
+  unable_to_save: 无法保存。
   invalid_timeserver: 无效的时间戳服务器
   email_templates: "电子邮件模板"
   signature_request_email: 签名请求电子邮件
   signature_request_sms: 签名请求短信
   verification_code_sms: 验证码短信
   completed_notification_email: 已完成通知电子邮件
-  company_logo: "公司标志"
+  company_logo: 公司标志
   submission_form: 提交表单
   completed_form_message: 已完成表单消息
   completed_form_redirect_button: 已完成表单重定向按钮
@@ -1123,25 +1123,25 @@ es: &es
   button_url: 按钮 URL
   upload_logo: 上传标志
   show_confetti_on_successful_completion: 成功完成后显示彩纸
-  attach_audit_log_pdf: "附加审计日志 PDF"
+  attach_audit_log_pdf: 附加审计日志 PDF
   attach_documents: 附加文档
   settings_have_been_saved: 设置已保存。
   display_your_company_name_and_logo_when_signing_documents: 签署文档时显示您的公司名称和标志。
   profile: 个人资料
   signature: 签名
   update_signature: 更新签名
-  unable_to_save_signature: "无法保存签名。"
+  unable_to_save_signature: 无法保存签名。
   signature_has_been_saved: 签名已保存。
   signature_has_been_removed: 签名已移除。
   initials: 首字母
   update_initials: 更新首字母
-  unable_to_save_initials: "无法保存首字母。"
+  unable_to_save_initials: 无法保存首字母。
   initials_has_been_saved: 首字母已保存。
   initials_has_been_removed: 首字母已移除。
   change_password: 更改密码
   two_factor_authentication: 二次验证
-  2fa_is_not_configured: "未配置二次验证"
-  set_up_2fa: "设置二次验证"
+  2fa_is_not_configured: 未配置二次验证
+  set_up_2fa: 设置二次验证
   contact_information_has_been_update: 联系信息已更新。
   password_has_been_changed: 密码已更改。
   email_integration: 电子邮件集成
@@ -1155,8 +1155,8 @@ es: &es
   gmail_has_been_connected: Gmail 已连接。
   microsoft_account_has_been_connected: Microsoft 账户已连接。
   but_not_activated: 但未激活
-  email_has_been_sent: "电子邮件已发送。"
-  email_has_been_sent_already: "电子邮件已发送。"
+  email_has_been_sent: 电子邮件已发送。
+  email_has_been_sent_already: 电子邮件已发送。
   initial_setup: 初始设置
   demo_environment: 演示环境
   close: 关闭
@@ -1177,11 +1177,11 @@ es: &es
   new: 新建
   embedding: 嵌入
   background_jobs: 后台任务
-  need_help_ask_a_question_: "需要帮助？提出问题："
+  need_help_ask_a_question_: 需要帮助？提出问题：
   exit: 退出
   leave: 离开
   impersonated_as: 模拟为
-  ask_ai: "询问 AI"
+  ask_ai: 询问 AI
   ai_assistant: AI 助手
   discord_community: Discord 社区
   integrations: 集成
@@ -1194,13 +1194,13 @@ es: &es
   from: 来自
   account_sid: 账户 SID
   send_sms_via_webhook: 通过 Webhook 发送短信
-  webhook_integration_allows_to_send_sms_using_any_provider: "Webhook 集成允许使用任何提供商发送短信"
+  webhook_integration_allows_to_send_sms_using_any_provider: Webhook 集成允许使用任何提供商发送短信
   test: 测试
   single_sign_on_with_saml_2_0: 使用 SAML 2.0 进行单点登录
   force_sso_disable_login_with_email_and_password: 强制 SSO（禁用电子邮件和密码登录）
   for_aws_s3_compatible_apis_like_minio: 适用于 AWS S3 兼容 API，如 Minio。
   store_all_files_on_disk: 将所有文件存储在磁盘上
-  no_configs_are_needed_but_make_sure_your_disk_is_persistent: "无需配置，但请确保您的磁盘是持久的"
+  no_configs_are_needed_but_make_sure_your_disk_is_persistent: 无需配置，但请确保您的磁盘是持久的
   not_suitable_for_heroku_and_other_paas: "不适用于 Heroku 和其他 PaaS"
   bulk_send_from_excel_xlsx_or_csv: 从 Excel XLSX 或 CSV 批量发送
   add_new: 添加新
@@ -1213,12 +1213,12 @@ es: &es
   send_emails: 发送电子邮件
   edit_message: 编辑消息
   smtp_not_configured: SMTP 未配置
-  configure_smtp_settings_in_order_to_send_emails_: '配置 SMTP 设置以发送电子邮件：'
+  configure_smtp_settings_in_order_to_send_emails_: 配置 SMTP 设置以发送电子邮件：
   go_to_smtp_settings: 前往 SMTP 设置
   save_as_default_template_message: 保存为默认模板消息
   re_send_sms: 重新发送短信
   send_sms: 发送短信
-  preserve_order: "保留顺序"
+  preserve_order: 保留顺序
   when_checked_notifications_will_be_sent_to_the_second_party_once_the_form_is_completed_by_the_previous_party_uncheck_this_option_to_send_notifications_to_all_parties_simultaneously_right_away: "勾选后，通知将在前一方完成表单后发送给第二方。取消勾选此选项可立即同时向所有方发送通知。"
   upgrade_to_send_unlimited_signature_requests: 升级以发送无限签名请求
   add_without_sending: 添加但不发送
@@ -1275,30 +1275,30 @@ es: &es
   change_folder: 更改文件夹
   shared: 共享
   export: 导出
-  there_are_no_submissions: "没有提交"
+  there_are_no_submissions: 没有提交
   send_an_invitation_to_fill_and_complete_the_form: 发送邀请以填写并完成表单
   send_to_recipients: 发送给收件人
   sign_it_yourself: 自己签署
   api_and_embedding: API 和嵌入
   template_id: 模板 ID
-  embedding_url: "嵌入 URL"
+  embedding_url: 嵌入 URL
   share_template_with_test_mode: 与测试模式共享模板
   share_template_with_all_tenants: 与所有租户共享模板
   use_following_placeholders_text_: '使用以下占位符：'
   users_count_total_users_count_pro_users_limit_was_reached_to_invite_additional_users_please_purchase_more_pro_user_seats_via_the_manage_plan_button: '已达到 %{users_count}/%{total_users_count} 个 Pro 用户限制。要邀请更多用户，请通过“管理计划”按钮购买更多 Pro 用户席位。'
   move_into_folder: 移动到文件夹
   new_folder_name: 新文件夹名称
-  exit_preview: "退出预览"
+  exit_preview: 退出预览
   general: 常规
   recipients: 收件人
   form_preferences: 表单偏好设置
   redirect_on_completion_url: 完成后的重定向 URL
   completion_message: 完成消息
   email_subject: "电子邮件主题"
-  email_body: "电子邮件正文"
-  attach_audit_log_pdf_to_the_email: "将审计日志 PDF 附加到电子邮件"
-  send_emails_automatically_on_completion: "完成后自动发送电子邮件"
-  attach_documents_to_the_email: "将文档附加到电子邮件"
+  email_body: 电子邮件正文
+  attach_audit_log_pdf_to_the_email: 将审计日志 PDF 附加到电子邮件
+  send_emails_automatically_on_completion: 完成后自动发送电子邮件
+  attach_documents_to_the_email: 将文档附加到电子邮件
   not_specified: 未指定
   submission_requester: 提交请求者
   specified_email: 指定电子邮件
@@ -1346,10 +1346,10 @@ es: &es
   add_secret: 添加密钥
   edit_secret: 编辑密钥
   submission_example_payload: 提交示例负载
-  there_are_no_signatures: "没有签名"
+  there_are_no_signatures: 没有签名
   signed_with_trusted_certificate: 使用可信证书签署
   signed_with_external_certificate: 使用外部证书签署
-  setup_2fa_to_continue: "设置二次验证以继续。"
+  setup_2fa_to_continue: 设置二次验证以继续。
   create_a_new_account: 创建新账户。
   you_are_already_signed_in: 您已经登录。
   please_sign_in: 请登录。
@@ -1372,17 +1372,17 @@ es: &es
   template_has_been_unarchived: 模板已取消归档。
   submission_has_been_unarchived: 提交已取消归档。
   unable_to_update_file: 无法上传文件。
-  user_has_been_updated: "用户已更新。"
+  user_has_been_updated: 用户已更新。
   unable_to_remove_user: 无法移除用户。
   user_has_been_invited: 用户已邀请。
-  unable_to_update_user: "无法更新用户。"
-  user_has_been_removed: "用户已移除。"
+  unable_to_update_user: 无法更新用户。
+  user_has_been_removed: 用户已移除。
   invalid_pdf: 无效的 PDF
   webhook_secret_has_been_saved: Webhook 密钥已保存。
-  webhook_url_has_been_saved: "Webhook URL 已保存。"
+  webhook_url_has_been_saved: Webhook URL 已保存。
   webhook_request_has_been_sent: Webhook 请求已发送。
-  webhook_url_has_been_updated: "Webhook URL 已更新。"
-  webhook_url_has_been_deleted: "Webhook URL 已删除。"
+  webhook_url_has_been_updated: Webhook URL 已更新。
+  webhook_url_has_been_deleted: Webhook URL 已删除。
   unable_to_resend_webhook_request: 无法重新发送 webhook 请求。
   new_webhook: 新 Webhook
   delete_webhook: 删除 webhook
@@ -1400,7 +1400,7 @@ es: &es
   logo_has_been_uploaded: 标志已上传。
   invalid_file_type: 无效的文件类型
   upload_file: 上传文件
-  upgrade_your_plan_to_invite_more_users_contact_email: "升级您的计划以邀请更多用户（联系 %{email}）。"
+  upgrade_your_plan_to_invite_more_users_contact_email: '升级您的计划以邀请更多用户（联系 %{email}）。'
   contact_your_admin_email_to_invite_more_users: "联系您的管理员 %{email} 以邀请更多用户。"
   contact_your_administrator_to_add_new_users: 联系您的管理员以添加新用户。
   one_hour: 1 小时
@@ -1426,24 +1426,24 @@ es: &es
   unlimited_signature_request_emails: 无限签名请求电子邮件
   your_company_logo: 您的公司标志
   connect_own_email_address: 连接您自己的电子邮件地址
-  personalize_email_content: "个性化电子邮件内容"
+  personalize_email_content: 个性化电子邮件内容
   automated_reminders: 自动提醒
   bulk_send_from_spreadsheet: 从电子表格批量发送
-  identify_verification_via_sms: "通过 SMS 进行身份验证"
+  identify_verification_via_sms: 通过 SMS 进行身份验证
   start_with_pro: 从 Pro 开始
   user_month: 用户/月
   developer_sandbox: 开发者沙箱
-  upgrade_to_start_using_in_production_html: '升级 以开始在生产环境中使用。'
+  upgrade_to_start_using_in_production_html: '<a href="%{url}" target="_blank" class="link font-semibold">升级</a> 以开始在生产环境中使用。'
   download_combined_pdf: 下载合并的 PDF
-  audit_log: "审计日志"
+  audit_log: 审计日志
   signers: 签署者
   not_invited_yet: 尚未邀请
   not_completed_yet: 尚未完成
   declined_on_time: '拒绝于 %{time}'
   expire_on_time: '过期于 %{time}'
   sign_in_person: 亲自签署
-  create_a_new_template_document_form_or_submit_the_existing_one_html: <a href="%{new_template_link}" data-turbo-frame="modal" class="inline underline font-medium">创建新模板</a> document form or <a href="%{start_form_link}" target="_blank" class="inline underline font-medium">提交</a>
-  send_email_copy_with_completed_documents_to_a_specified_bcc_address: Send email copy with completed documents to a specified BCC address.
+  create_a_new_template_document_form_or_submit_the_existing_one_html: <a href="%{new_template_link}" data-turbo-frame="modal" class="inline underline font-medium">创建新模板 文档或 <a href="%{start_form_link}" target="blank" class="inline underline font-medium">提交现有"</a>'
+  send_email_copy_with_completed_documents_to_a_specified_bcc_address: 将已完成文档的电子邮件副本发送到指定的密送地址。
   re_send_email: 重新发送电子邮件
   send_email: 发送电子邮件
   copy_share_link: 复制分享链接
@@ -1473,10 +1473,10 @@ es: &es
   option: 选项
   text_field: 文本字段
   signature_field: 签名字段
-  initials_field: "首字母字段"
+  initials_field: 首字母字段
   date_field: 日期字段
   number_field: 数字字段
-  image_field: "图像字段"
+  image_field: 图像字段
   file_field: 文件字段
   select_field: 选择字段
   checkbox_field: 复选框字段
@@ -1486,8 +1486,8 @@ es: &es
   stamp_field: 印章字段
   payment_field: 支付字段
   phone_field: 电话字段
-  verification_field: "身份验证字段"
-  identity_verification: "身份验证"
+  verification_field: 身份验证字段
+  identity_verification: 身份验证
   paid_price: '已支付 %{price}'
   verified: 已验证
   unverified: 未验证
@@ -1509,7 +1509,7 @@ es: &es
   created_at: 创建于
   apply: 应用
   applying: 应用中
-  today: "今天"
+  today: 今天
   yesterday: 昨天
   this_week: 本周
   last_week: 上周
@@ -1580,8 +1580,8 @@ es: &es
   one_month: 1 个月
   two_months: 2 个月
   three_months: 3 个月
-  eu_data_residency: "欧盟数据存储"
-  please_enter_your_email_address_associated_with_the_completed_submission: "请输入与已完成提交关联的电子邮件地址。"
+  eu_data_residency: 欧盟数据存储
+  please_enter_your_email_address_associated_with_the_completed_submission: 请输入与已完成提交关联的电子邮件地址。
   esignature_disclosure: 电子签名披露
   share_link: 分享链接
   enable_shared_link: 启用分享链接
@@ -1650,23 +1650,23 @@ es: &es
     open_field_settings: '打开字段设置'
     open_field_settings_description: "在字段名称右侧是一个图标，用于打开字段设置。"
     field_settings: '字段设置'
-    field_settings_description: "每个字段都可以使用设置进行自定义，以满足您的需求，例如调整字体大小、设为必填项或添加描述。"
+    field_settings_description: '每个字段都可以使用设置进行自定义，以满足您的需求，例如调整字体大小、设为必填项或添加描述。'
     send_document: '发送文档以供签署'
-    send_document_description: "在发送文档以供签署之前"
-    sign_yourself: '亲自签署文件'
-    sign_yourself_description: '这个按钮会让您需要的文档签署您的名字.'
-    copy_and_share_link: 'Copy & 分享链接'
-    copy_and_share_link_description: '复制链接分享文档. 任何人可以收到邮件后签署.'
-    sign_the_document: '签署这个文档'
-    sign_the_document_description: '如果您是签署人之一, 这个按钮将问您签署.'
-    send_for_signing: '为了签署发送'
-    add_recipients: '增加接收者'
-    add_recipients_description: '通过输入电子邮件地址或电话号码，为待签署的文档添加新的接收人。'
+    send_document_description: '在发送文档以供签署之前'
+    sign_yourself: '亲自签署文档'
+    sign_yourself_description: '此按钮允许你在需要你签名的文档上添加签名。'
+    copy_and_share_link: '复制并分享链接'
+    copy_and_share_link_description: '复制此链接以分享文档。任何拥有此链接的人在输入其电子邮件后均可签署该文档。'
+    sign_the_document: '签署文档'
+    sign_the_document_description: '如果你是签署人之一，此按钮允许你签署文档。'
+    send_for_signing: '发送以供签署'
+    add_recipients: '添加接收人'
+    add_recipients_description: '通过输入他们的电子邮件地址或电话号码，为待签署的文档添加新的接收人。'
     settings: '设置'
     settings_account_description: '借助全面的账户设置，您可以自定义电子签名体验并邀请更多用户。'
     support: '支持'
-    support_description: '如果您有任何问题，可以使用我们的自助式人工智能助手，或发送电子邮件至 support@docuseal.com 联系我们。.'
-    settings_template_description: '进入账户设置页面.'
+    support_description: '如果您有任何问题，可以使用我们的自助式人工智能助手，或发送电子邮件至 support@docuseal.com 联系我们。'
+    settings_template_description: '使用此按钮访问你的账户设置。'
   doorkeeper:
     scopes:
       write: 更新您的数据
@@ -5625,7 +5625,7 @@ en-US:
   date:
     formats:
       default: "%m/%d/%Y"
- 
+
 en-GB:
   <<: *en
   date:
