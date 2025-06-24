@@ -887,9 +887,9 @@ es: &es
   document_download_filename_format: 文档下载文件名格式
   document_name: 文档名称
   unarchive: 取消归档
-  awaiting_completion_by_the_other_party: "等待另一方完成"
-  enforce_recipients_order: "强制收件人顺序"
-  first_party: '第一方'
+  awaiting_completion_by_the_other_party: 等待另一方完成
+  enforce_recipients_order: 强制收件人顺序
+  first_party: 第一方
   docuseal_trusted_signature: DocuSeal 可信签名
   hello_name: 您好 %{name}
   you_are_invited_to_product_name: 您被邀请加入 %{product_name}
